@@ -1,6 +1,6 @@
-A = int(input())
-B = int(input())
+a = int(input())
+b = int(input())
 
-SOMA = A + B
+soma = a + b
 
-print(f"SOMA = {SOMA}")
+print(f"SOMA = {soma}")

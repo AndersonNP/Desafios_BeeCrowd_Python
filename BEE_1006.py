@@ -1,7 +1,7 @@
-A = float(input())
-B = float(input())
-C = float(input())
+a = float(input())
+b = float(input())
+c = float(input())
 
-MEDIA = ((A*2) + (B*3) + (C*5))/10
+media = ((a*2) + (b*3) + (c*5))/10
 
-print(f"MEDIA = {MEDIA:.1f}")
+print(f"MEDIA = {media:.1f}")
